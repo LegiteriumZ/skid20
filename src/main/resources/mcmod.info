@@ -1,7 +1,7 @@
 [
   {
     "modid": "fdpclient",
-    "name": "FDPClient",
+    "name": "Skidsense",
     "description": "",
     "version": "${version}",
     "mcversion": "${mcversion}",
